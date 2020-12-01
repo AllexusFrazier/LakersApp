@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAkers</string>
+    <string name="playersName">PlayersName</string>
+    <string name="coach">Coach</string>
+</resources>
